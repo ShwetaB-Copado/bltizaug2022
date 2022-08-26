@@ -6,11 +6,17 @@
         },
         {
             "path": "base-objects",
-            "default": false
+            "default": false,
+            "package": "TrialPkg2",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
         }
     ],
     "name": "cohortFall22",
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "55.0"
+    "sourceApiVersion": "55.0",
+    "packageAliases": {
+        "TrialPkg2": "0Ho5g000000fxueCAA"
+    }
 }
