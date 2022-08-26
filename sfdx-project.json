@@ -17,6 +17,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "55.0",
     "packageAliases": {
-        "TrialPkg2": "0Ho5g000000fxueCAA"
+        "TrialPkg2": "0Ho5g000000fxueCAA",
+        "TrialPkg2@1.0.0-0-main": "04t5g0000005Yc9AAE"
     }
 }
